@@ -1,0 +1,14 @@
+F:\mahdi\Projects\C#\Events\EventsProject\obj\Debug\net9.0\EventsProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\mahdi\Projects\C#\Events\EventsProject\obj\Debug\net9.0\EventsProject.AssemblyInfoInputs.cache
+F:\mahdi\Projects\C#\Events\EventsProject\obj\Debug\net9.0\EventsProject.AssemblyInfo.cs
+F:\mahdi\Projects\C#\Events\EventsProject\obj\Debug\net9.0\EventsProject.csproj.CoreCompileInputs.cache
+F:\mahdi\Projects\C#\Events\EventsProject\bin\Debug\net9.0\EventsProject.exe
+F:\mahdi\Projects\C#\Events\EventsProject\bin\Debug\net9.0\EventsProject.deps.json
+F:\mahdi\Projects\C#\Events\EventsProject\bin\Debug\net9.0\EventsProject.runtimeconfig.json
+F:\mahdi\Projects\C#\Events\EventsProject\bin\Debug\net9.0\EventsProject.dll
+F:\mahdi\Projects\C#\Events\EventsProject\bin\Debug\net9.0\EventsProject.pdb
+F:\mahdi\Projects\C#\Events\EventsProject\obj\Debug\net9.0\EventsProject.dll
+F:\mahdi\Projects\C#\Events\EventsProject\obj\Debug\net9.0\refint\EventsProject.dll
+F:\mahdi\Projects\C#\Events\EventsProject\obj\Debug\net9.0\EventsProject.pdb
+F:\mahdi\Projects\C#\Events\EventsProject\obj\Debug\net9.0\EventsProject.genruntimeconfig.cache
+F:\mahdi\Projects\C#\Events\EventsProject\obj\Debug\net9.0\ref\EventsProject.dll

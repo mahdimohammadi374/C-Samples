@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\mahdi\\Projects\\C#\\Events\\EventsProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53C35881-8177-4935-A92C-DA6ED8077FED}|EventsProject.csproj|f:\\mahdi\\projects\\c#\\events\\eventsproject\\updatepriceeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C35881-8177-4935-A92C-DA6ED8077FED}|EventsProject.csproj|solutionrelative:updatepriceeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C35881-8177-4935-A92C-DA6ED8077FED}|EventsProject.csproj|f:\\mahdi\\projects\\c#\\events\\eventsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C35881-8177-4935-A92C-DA6ED8077FED}|EventsProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C35881-8177-4935-A92C-DA6ED8077FED}|EventsProject.csproj|f:\\mahdi\\projects\\c#\\events\\eventsproject\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C35881-8177-4935-A92C-DA6ED8077FED}|EventsProject.csproj|solutionrelative:notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53C35881-8177-4935-A92C-DA6ED8077FED}|EventsProject.csproj|f:\\mahdi\\projects\\c#\\events\\eventsproject\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53C35881-8177-4935-A92C-DA6ED8077FED}|EventsProject.csproj|solutionrelative:stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "F:\\mahdi\\Projects\\C#\\Events\\EventsProject\\Stock.cs",
+              "RelativeDocumentMoniker": "Stock.cs",
+              "ToolTip": "F:\\mahdi\\Projects\\C#\\Events\\EventsProject\\Stock.cs",
+              "RelativeToolTip": "Stock.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T19:24:27.352Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdatePriceEventArgs.cs",
+              "DocumentMoniker": "F:\\mahdi\\Projects\\C#\\Events\\EventsProject\\UpdatePriceEventArgs.cs",
+              "RelativeDocumentMoniker": "UpdatePriceEventArgs.cs",
+              "ToolTip": "F:\\mahdi\\Projects\\C#\\Events\\EventsProject\\UpdatePriceEventArgs.cs",
+              "RelativeToolTip": "UpdatePriceEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T19:49:50.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "F:\\mahdi\\Projects\\C#\\Events\\EventsProject\\NotificationService.cs",
+              "RelativeDocumentMoniker": "NotificationService.cs",
+              "ToolTip": "F:\\mahdi\\Projects\\C#\\Events\\EventsProject\\NotificationService.cs",
+              "RelativeToolTip": "NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T19:33:56.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\mahdi\\Projects\\C#\\Events\\EventsProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\mahdi\\Projects\\C#\\Events\\EventsProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T14:53:37.138Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
